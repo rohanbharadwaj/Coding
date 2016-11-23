@@ -1,8 +1,8 @@
 package com.rohanbharadwaj.dp;
 
 /**
- * @author Rohan Bharadwaj
- * @created Nov 20, 2016
+ * @author rohan
+ * @Created Nov 20, 2016
  *
  */
 public class Knapsack01 {
