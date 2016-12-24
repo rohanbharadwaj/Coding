@@ -1,8 +1,10 @@
-package com.rohanbharadwaj.ds;
+package com.rohanbharadwaj.util;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.rohanbharadwaj.util.Stack;
 
 /**
  * @author Rohan Bharadwaj

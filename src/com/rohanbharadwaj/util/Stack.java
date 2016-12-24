@@ -1,4 +1,4 @@
-package com.rohanbharadwaj.ds;
+package com.rohanbharadwaj.util;
 
 /**
  * @author Rohan Bharadwaj
